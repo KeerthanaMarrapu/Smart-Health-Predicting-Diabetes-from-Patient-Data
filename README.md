@@ -7,14 +7,7 @@ Uses Pandas , Numpy
 Models trained : Support Vector Machine(SVM)
 Data Standardization done using StandardScaler
 
-##Run it on Google Colab
-
-click below link to open and run the project in Google Colab:
-[![Open in Colab](https://colab.research.google.com/drive/1OUDVKgGrkV6j81z6fautAD-8_x-jxWt4?usp=sharing)]
->Make sure to Upload the dataset
-
 ##Dataset Information
-
 Features: Pregnancies,Glucose, Blood Pressure, Skin Thickness, Insulin, BMI,Diabetes Pedigree Function , Age
 Target: Outcome (1 = Diabetic, 0 = Non-diabetic)
 
