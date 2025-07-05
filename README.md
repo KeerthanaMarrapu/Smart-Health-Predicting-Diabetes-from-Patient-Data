@@ -21,4 +21,4 @@ Target: Outcome (1 = Diabetic, 0 = Non-diabetic)
 ## 📂 Files in This Repo
 
  README.md → Project overview
- (Optional) dataset.csv → Upload if license permits
+ dataset.csv → Upload if license permits
